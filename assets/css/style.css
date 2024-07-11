@@ -1,0 +1,12 @@
+* {
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    color: whitesmoke;
+}
+
+.navbar {
+    background-color: transparent !important;
+    color: white;
+  }
+
+ 
