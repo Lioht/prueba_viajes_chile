@@ -1,5 +1,4 @@
 * {
-    background-color: black;
     font-family: "Roboto", sans-serif;
     color: whitesmoke;
 }
@@ -9,4 +8,32 @@
     color: white;
   }
 
+.carousel-inner{
+
+    background-color: black;
+}
  
+.card {
+    margin: 20px;
+    border: none;
+}
+.card-header {
+    background-color: #00ADEF; /* Color de fondo del encabezado */
+    color: white; /* Color del texto del encabezado */
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.card-footer {
+    background-color: #00ADEF; /* Color de fondo del pie */
+    color: white; /* Color del texto del pie */
+    text-align: center;
+    padding: 1px;
+}
+
+.card-body {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
