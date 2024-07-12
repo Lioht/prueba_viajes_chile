@@ -80,8 +80,10 @@ max-height: 150px;
 }
 
 form{
+
     text-align: left;
     font-weight: bold;
+    height: 100%    ;
     }
 
 
