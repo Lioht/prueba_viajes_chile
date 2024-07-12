@@ -29,7 +29,7 @@
     background-color: #00ADEF; /* Color de fondo del pie */
     color: white; /* Color del texto del pie */
     text-align: center;
-    padding: 1px;
+    padding: 20px;
 }
 
 .card-body {
