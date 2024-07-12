@@ -7,3 +7,10 @@ document.querySelectorAll('.smooth-scroll').forEach(anchor => {
       });
     });
   });
+
+  $("#enviarCorreo").click(function(){
+    alert("Su mensaje ha sido enviado exitosamente.");
+  }); 
+
+tooltipTriggerList2 = document.querySelectorAll('[data-bs-toggle="tooltip2"]');
+tooltipList2 = [...tooltipTriggerList2].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl));
